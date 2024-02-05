@@ -45,7 +45,7 @@ int main() {
         std::cout << "I hope you are enjoying retirement.";
     }
 
-    std::cout << "Your's sincerely,\n\nMiguel Pafume R.";
+    std::cout << "Your's sincerely,\n\n######.";
 
     return 0;
 }
