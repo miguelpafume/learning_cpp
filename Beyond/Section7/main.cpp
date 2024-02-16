@@ -9,7 +9,7 @@ int main() {
     Vector1.push_back(10);
     Vector1.push_back(20);
 
-    cout << "Vector1 size: " << size(Vector1)
+    cout << "Vector1 size: " << Vector1.size()
     << "\nVector1 first value: " << Vector1.at(0)
     << "\nVector1 second value: " << Vector1.at(1);
 
@@ -20,7 +20,7 @@ int main() {
     Vector2.push_back(100);
     Vector2.push_back(200);
 
-    cout << "Vector2 size: " << size(Vector2) << "\nVector2 first value: " << Vector2.at(0) << "\nVector2 second value: " << Vector2.at(1);
+    cout << "Vector2 size: " << Vector2.size() << "\nVector2 first value: " << Vector2.at(0) << "\nVector2 second value: " << Vector2.at(1);
 
     cout << "\n\n-=-=-=-=-=-=-=-=-=-=\n\n";
 
