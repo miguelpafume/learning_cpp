@@ -22,7 +22,6 @@ int main() {
   std::cout << compare << std::endl;
   std::cout << compare2 << std::endl;
   
-  std::cout << "-=-=-=-=-=-=-=-=-=" << std::endl;
   std::cout << mystring1 << " =! " << ms2 << std::endl;
   
   std::cin >> mystring1;
