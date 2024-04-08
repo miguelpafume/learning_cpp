@@ -1,3 +1,7 @@
-.vscode
-*.exe
 test.cpp
+*.exe
+.vscode
+.vs
+*.sln
+*.vcxproj*
+x64
