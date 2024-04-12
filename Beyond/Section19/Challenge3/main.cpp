@@ -13,7 +13,7 @@ int main () {
 
   for (int i {0}; i < input.size(); i++) {
     input[i] = tolower(input[i]);
-  }
+  }  
 
   while (file >> word) {
     if (word.size() < input.size()) {continue;}

@@ -2,7 +2,7 @@
 #include <cstring>
 #include "MyString.hpp"
 
-MyString::MyString() : str{nullptr} {
+MyString::MyString() : str{nullptr} { 
   str = new char[1];
   *str = '\0';
 }

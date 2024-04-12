@@ -16,11 +16,12 @@ int main() {
   std::cout << compare2 << std::endl << std::endl;
 
   mystring1 = "abacaxi";
+
   compare = {mystring1 == ms2};
   compare2 = {mystring1 != ms2};
 
   std::cout << compare << std::endl;
-  std::cout << compare2 << std::endl;
+  std::cout << compare2 << std::endl; 
   
   std::cout << mystring1 << " =! " << ms2 << std::endl;
   
